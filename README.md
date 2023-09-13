@@ -22,7 +22,7 @@ Markdown syntax (https://www.markdownguide.org/basic-syntax/)
 
 |#|session|#|
 |:--:|:--:|:--:|
-|1|code cells|[variabke,assign](https://github.com/kdy1116/kdy1116/tree/main)|
+|1|code cells|[variable,assign](https://github.com/kdy1116/kdy1116/tree/main)|
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)|  
